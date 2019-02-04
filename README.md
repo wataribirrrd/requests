@@ -1,2 +1,2 @@
 # requests
-HTTP request with python3
+Get HTTP status code with python3
